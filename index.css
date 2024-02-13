@@ -1,0 +1,228 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Playfair+Display+SC&family=Prata&display=swap');
+*{   font-family: 'Acme', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-family: 'Prata', serif;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+
+   
+    list-style: none;
+}
+body{
+    width: 100%;
+    height: 1300px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgb(248 250 252);
+}
+.head{
+    background-color: rgb(240 249 255);
+    height: 1200px;
+    width: 90%;
+    border-radius: 10px;
+ 
+}
+header{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    letter-spacing: 1px;
+    background: black;
+    color: white;
+ 
+}
+header p{
+    margin-left: 20px;
+}
+.menu{
+    margin-top: 20px;
+    display: flex;
+    color: black;
+    justify-content: space-between;
+}
+ul {
+    display: flex;
+    margin-left: 60px;
+    
+}
+ul li {
+    margin-right: 40px;
+  
+}
+a{
+    color: black;
+}
+.o{
+    display: flex;
+ 
+    margin-left: 20px;
+ 
+}
+ 
+h5{
+    margin-right: 90px;
+}
+.logo{
+    margin-left: 60px;
+}
+
+.l{
+    display: flex;
+    justify-content: end;
+}
+
+button{
+    
+    margin-right: 40px;
+    color: white;
+  margin-bottom: 40px;
+    background: black;
+    border: none;
+    width: 100px;
+    height: 20px;
+  
+}
+.inp{
+    display: flex;
+    margin-top: 10px;
+
+}
+.txt{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+h1{
+    word-spacing: 4px;
+    letter-spacing: 2px;
+}
+h2{
+    font-size: small;
+}
+
+.bod{
+    display: flex;
+}
+.img1{
+    margin-left: 190px;
+}
+.pp{
+    margin-top: 20px;
+ 
+ 
+}
+.email .btn{
+    width: 200px;
+    height: 30px;
+}
+ .btn:hover{
+    border: none;
+    color: beige;
+    background-color: rgba(37, 100, 235, 0.712);
+ }
+.bn{
+    background-color: rgb(37 99 235);
+    
+  margin-left: 60px;
+  height: 1400px;
+  width: 1110px;
+}
+.img2 img{
+    margin-top: 40px;
+    margin-right: 40px;
+}
+.img2{
+  
+     background:  rgb(96 165 250);
+     height: 90px;
+  
+    display: flex;
+    margin-top: 20px;
+}
+ .de1{
+    display: flex;
+   
+ }
+
+samp{
+    color: black;
+}
+.lo{
+    color: black;
+}
+.lop{
+ width: 70%;
+ margin-top: 40px;
+ margin-left: 40px;
+}
+
+.lop h5{
+ 
+    letter-spacing: 2px;
+    white-space: 2px;
+    line-height: 28px;
+}
+.img4{
+    display: flex;
+    margin-top: 40px;
+    background: white;
+}
+h1 p{
+
+   color: black;
+   font-size: large;
+
+}
+.img4 h1{
+   
+    margin-top: 50px;
+}
+ .finishall{
+    margin-top: 0px;
+    display: flex;
+   padding: 40px;
+    height: 30vh;
+    background:black;
+    color: white;
+    
+ }
+
+.io{
+    width: 40%;
+    margin-left: 40px;
+}
+ 
+.ip{
+    margin-left:140px;
+    width: 50%;
+    margin-top: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
